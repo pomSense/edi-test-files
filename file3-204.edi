@@ -1,0 +1,70 @@
+ISA*00*.         *00*.         *14*000022827TMO204*02*CARRIERID      *050829*1025*U*00401*010100170*0*P*:~
+GS*SM*000022827TMO204*CARRIERID*20050829*1025*10100170*X*004010~
+ST*204*10100170~
+B2**SCAC**0000003*L*PP*L~
+B2A*00*LT~
+L11*12345*DI~
+G62*64*20060126*1*1117*ET~
+AT5*OTC*D2~
+NTE**Carrier cannot deliver beyond the scheduled delivery date without Schmydir's approv~
+NTE**al. Adherence is expected for PU and delivery deadlines. Driver must have Load~
+NTE** # & PO # Ref # and must be aware of special instructions. Trailers must be cle~
+NTE**an upon arrival @ origin. PU or DEL changes must be pre-approved by Schmydir. Any~
+NTE** operational problems must be reported to Schmydir @ 111-111-1111 Billing inquirie~
+N1*BT*Reckitt Benckiser c/o Ryder*93*RECKITT~
+N3*PO BOX 134003~
+N4*ANN ARBOR*MI*48103*USA~
+N7**987654*********2B****4806*****10*8~
+S5*1*LD*20000*L*2*PC*2500*E~
+G62*69*20060201*U*1300*ET~
+NTE**All TL's are available after 100 PM of the day of loading. Load availability for~
+NTE** an earlier pick up must be confirmed by a phone call to the shipping supervisor~
+NTE**. LTL must be picked up by noon. Paperwork is at shipping desk from 600 AM to 5~
+NTE**00 PM. Available at guard shack after hours. If Live load, call Neil Sarce 111~
+NTE**-111-222 for appointment.~
+N1*SF*COMAIR*93*HTX3~
+N3*NO. 100 ROADS INDUSTRIAL*SUITE 111~
+N4*TIJUANA*EM*22500*MEX~
+G61*SH*Gordon Solstice*TE*324-882-2325~
+OID*3383051~
+LAD*PCS*1~
+L5***001*N~
+AT8*G*L*10000*1**E*0~
+G61*ZZ*ZZ~
+L11*039874993*P8~
+OID*3383082~
+LAD*PCS*1~
+L5***001*N~
+AT8*G*L*10000*1**E*2500~
+G61*ZZ*ZZ~
+L11*883028673*P8~
+S5*2*UL*10000*L*1*PC*0*E~
+G62*97*20060214*Z*1300*ET~
+NTE**BILL B/L CALL 111-222-3333 FOR DELIVERY APPTRECORD DATES CODES ON LOADING DIAGRA~
+NTE**M CARRIER MUST SORT AND SEGREGATE AT DELIVERY~
+N1*ST*ZECKITT TRYCKISER*93*HT2087000001~
+N3*4343 E KETCHUP RD*DOCK15~
+N4*SPRINGFIELD*MO*658037139*USA~
+G61*DC*CUSTOMER SERVICE*TE*555-555-5555~
+OID*3383051~
+LAD*PCS*1~
+L5***001*N~
+AT8*G*L*10000*1**E*0~
+G61*ZZ*ZZ~
+L11*263788564*P8~
+S5*3*UL*10000*L*1*PC*2500*E~
+G62*70*20060223*X*1200*ET~
+N1*ST*ZECKITT TRYCKISER*93*HT1860050171~
+N3*111 TOTALISM AVE~
+N4*MECHANICSBURG*PA*170558306*USA~
+G61*DC*BOB SCHMOB*TE*555.555.5555~
+OID*3383082~
+LAD*PCS*1~
+L5***001*N~
+AT8*G*L*10000*1**E*2500~
+G61*ZZ*ZZ~
+L11*029876475*P8~
+L3*20000*G***264964****2500*E*2*L**00*PL~
+SE*66*10100170~
+GE*1*10100170~
+IEA*1*010100170~
